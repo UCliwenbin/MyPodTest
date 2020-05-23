@@ -8,7 +8,8 @@ platform :ios, '8.0'
 target 'MyPodTest_Example' do
   pod 'MyPodTest', :path => '../'
   pod 'Masonry'
-
+  
+  pod 'LBCamera'
   target 'MyPodTest_Tests' do
     inherit! :search_paths
 

@@ -1,0 +1,29 @@
+PODS:
+  - LBCamera (1.0.2):
+    - Masonry
+  - Masonry (1.1.0)
+  - MyPodTest (0.1.0)
+
+DEPENDENCIES:
+  - LBCamera
+  - Masonry
+  - MyPodTest (from `../`)
+
+SPEC REPOS:
+  https://github.com/UCliwenbin/Specs.git:
+    - LBCamera
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  MyPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBCamera: 67147d271323037afc2b89a9f1a97a952ba10860
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MyPodTest: ef2876d7bce83e5476cbc5e75e0038b0d9ebd152
+
+PODFILE CHECKSUM: 7c4388c1a0cf513d8f6f1e3fbcc01c721361e114
+
+COCOAPODS: 1.6.1
