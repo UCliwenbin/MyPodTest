@@ -1,22 +1,25 @@
 {
   "name": "MyPodTest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of MyPodTest.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/549411835@qq.com/MyPodTest",
+  "homepage": "https://github.com/UCliwenbin/MyPodTest.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "549411835@qq.com": "wenbin.li01@ucarinc.com"
+    "lwb": "549411835@qq.com"
   },
   "source": {
-    "git": "https://github.com/549411835@qq.com/MyPodTest.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/UCliwenbin/MyPodTest.git",
+    "tag": "0.1.1"
   },
+  "source_files": "MyPodTest/Classes/**/*",
   "platforms": {
-    "ios": "8.0"
-  },
-  "source_files": "MyPodTest/Classes/**/*"
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
 }

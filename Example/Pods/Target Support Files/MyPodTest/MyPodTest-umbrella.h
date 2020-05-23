@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ZCStepSelectorView.h"
 
 FOUNDATION_EXPORT double MyPodTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char MyPodTestVersionString[];
