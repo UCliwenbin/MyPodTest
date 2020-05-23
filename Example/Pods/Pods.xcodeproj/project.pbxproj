@@ -128,7 +128,6 @@
 		000580DF4C9C1DA0F8760D87A5BBDFC2 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
 		00EC6F921C203A7651D6E38C20C0C3B1 /* ResourceBundle-LBCamera-LBCamera-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-LBCamera-LBCamera-Info.plist"; sourceTree = "<group>"; };
 		04897981EC4E3FCD96368975A6A13515 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
-		04AB663124795ED000293A4C /* pod_push.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = pod_push.sh; path = ../../../../Documents/mywork/scripts/bashScripts/pod_push.sh; sourceTree = "<group>"; };
 		0A7FCE6F688D0092FF0832B437DB81CC /* MyPodTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MyPodTest-prefix.pch"; sourceTree = "<group>"; };
 		0B938868190FD957081BD31B99CE7A24 /* Pods-MyPodTest_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyPodTest_Tests-Info.plist"; sourceTree = "<group>"; };
 		0C8543AB6F44F4C58107F0A3FD300147 /* Pods_MyPodTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyPodTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -360,7 +359,6 @@
 			children = (
 				FB8986A556299811F7765B5500B90EF1 /* LICENSE */,
 				D72901D167E472EEDC0DAF4BA93DCD87 /* MyPodTest.podspec */,
-				04AB663124795ED000293A4C /* pod_push.sh */,
 				7567CC36F9954D4BF22B97C9663A0A68 /* README.md */,
 			);
 			name = Pod;
