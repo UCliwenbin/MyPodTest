@@ -1,0 +1,17 @@
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+source 'https://github.com/UCliwenbin/Specs.git'
+
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MyPodTest_Example' do
+  pod 'MyPodTest', :path => '../'
+  pod 'Masonry'
+
+  target 'MyPodTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
